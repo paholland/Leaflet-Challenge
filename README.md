@@ -1,5 +1,8 @@
 ## Leaflet-Challenge Project
 
+    To build a new set of tools that will allow to visualize USGS earthquake data. 
+
+
 Map (The rendered leaflet map has all of
 the following: TileLayer loads without error, connects to geojson API using D3 without error, a legend showing the magnitude and their corresponding color)
 

@@ -1,6 +1,6 @@
 ## Leaflet-Challenge Project
 
-    To build a new set of tools that will allow to visualize USGS earthquake data. 
+    To build a new set of tools that will allow to visualize United States Geological Survey (USGS) earthquake data. 
 
 
 Map (The rendered leaflet map has all of

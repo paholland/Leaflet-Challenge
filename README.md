@@ -11,7 +11,7 @@ following: Data points scale with magnitude level, data points colors change wit
 
 Map (The leaflet map has all of the following: Control to change basemap, control to add/remove layers, tectonic plate lines on map)
 
-### HTML, CSS, JavaScript, Leaflet, D3
+### HTML, CSS, JavaScript, Leaflet, D3, API
 
 
 
